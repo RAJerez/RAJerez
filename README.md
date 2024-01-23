@@ -1,5 +1,5 @@
 ## Hola! Soy Agustín Jerez 👋
-En esta sección podrás ver mis proyectos de data
+En esta sección podrás ver mis proyectos de Data Engineering
 
 ### Tecnologías⚡
   - Python
