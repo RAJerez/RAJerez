@@ -1,8 +1,7 @@
-Hola! Soy Agustín Jerez 👋
-
+## Hola! Soy Agustín Jerez 👋
 En esta sección podrás ver mis proyectos de data
 
-Tecnologías⚡
+### Tecnologías⚡
   - Python
   - SQL
   - Spark
@@ -11,7 +10,7 @@ Tecnologías⚡
   - Airflow
   - PowerBi
 
-Soft Skills😄
+### Soft Skills😄
   - Comunicación
   - Responsablilidad
   - Trabajo en equipo
