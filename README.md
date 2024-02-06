@@ -1,7 +1,6 @@
-## Hola! Soy Agustín Jerez 👋
-En esta sección podrás ver mis proyectos de Data Engineering
-
-### Tecnologías⚡
+## Hello! I am Agustín Jerez 👋
+In this section you can see my Data Engineering projects
+### Technologies⚡
   - Python
   - SQL
   - Spark
@@ -11,9 +10,9 @@ En esta sección podrás ver mis proyectos de Data Engineering
   - PowerBi
 
 ### Soft Skills😄
-  - Comunicación
-  - Responsablilidad
-  - Trabajo en equipo
+  - Communication
+  - Responsibility
+  - Teamwork
   - SCRUM
 
 
