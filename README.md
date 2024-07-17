@@ -7,11 +7,13 @@ In this section you can see my Data Engineering projects
 ### Technologies⚡
   - Python
   - SQL
-  - Spark
   - DBT
-  - Docker
   - Airflow
-  - PowerBi
+  - Airbyte
+  - Docker
+  - AWS
+  - BigQuery
+  - Snowflake
 
 ### Soft Skills😄
   - Communication
